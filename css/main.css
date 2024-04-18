@@ -571,5 +571,40 @@ section {
   color: #363738;
 }
 .card__7 .img__1 {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
   margin-top: 100px;
+}
+.card__7 .img__2 {
+  margin-top: 60px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.card__7 .img__2 .item__1 {
+  margin-left: 155px;
+}
+.card__7 .img__2 .item__2 {
+  margin-left: 90px;
+}
+.card__7 .img__2 .item__3 {
+  margin-left: 100px;
+  margin-right: 0px;
+}
+.card__7 .img__2 .img__7 {
+  padding-left: 120px;
+  margin-right: 20px;
+}
+.card__7 .img__2 .blok__img {
+  padding-left: 60px;
+}
+.card__7 .img__2 .img__8 {
+  padding-left: 30px;
+  margin-right: 400px;
+}
+
+.card__10 {
+  margin-top: 100px;
+  border-radius: 10px;
 }

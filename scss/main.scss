@@ -645,6 +645,49 @@ section {
   }
 
   .img__1 {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
     margin-top: 100px;
   }
+
+  .img__2 {
+    margin-top: 60px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+
+    .item__1 {
+      margin-left: 155px;
+    }
+
+    .item__2 {
+      margin-left: 90px;
+    }
+
+    .item__3 {
+      margin-left: 100px;
+      margin-right: 00px;
+    }
+
+    .img__7 {
+      padding-left: 120px;
+      margin-right: 20px;
+    }
+
+    .blok__img {
+      padding-left: 60px;
+    }
+
+    .img__8 {
+      padding-left: 30px;
+      margin-right: 400px;
+
+    }
+  }
+}
+
+.card__10 {
+  margin-top: 100px;
+  border-radius: 10px;
 }
